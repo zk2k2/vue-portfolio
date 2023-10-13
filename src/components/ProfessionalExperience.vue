@@ -21,7 +21,7 @@
                 <p class="text-md mx-4 my-1 text-gray-400">Jul. 2023 - Sep. 2023 - Hybrid</p>
               </div>
               <div class="logo-container">
-                <img src="../assets/avidea-logo.png" class="h-16" alt="" />
+                <img src="../../public/images/avidea-logo.png" class="h-16" alt="" />
               </div>
             </div>
 

@@ -21,7 +21,7 @@
                 <p class="text-md mx-4 my-1 text-gray-400">Mar. 2023 - Apr. 2023</p>
               </div>
               <div class="logo-container">
-                <img src="../assets/optimate-logo.png" class="h-16" alt="" />
+                <img src="../../public/images/optimate-logo.png" class="h-16" alt="" />
               </div>
             </div>
 
