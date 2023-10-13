@@ -15,68 +15,120 @@
       <div class="logos-container w-100 h-100 my-14">
         <div class="flex justify-around m-5">
           <div class="logo-item">
-            <img src="src\assets\html-logo.png" alt="" class="shimmer-effect logo-item h-14" />
+            <img
+              src="../../public/images/html-logo.png"
+              alt=""
+              class="shimmer-effect logo-item h-14"
+            />
             <p class="text-center my-2">HTML5</p>
           </div>
           <div class="logo-item">
-            <img src="src\assets\css-logo.png" alt="" class="h-14 shimmer-effect logo-item" />
+            <img
+              src="../../public/images/css-logo.png"
+              alt=""
+              class="h-14 shimmer-effect logo-item"
+            />
             <p class="text-center my-2">CSS3</p>
           </div>
 
           <div class="logo-item">
-            <img src="src\assets\js-logo.png" alt="" class="h-14 shimmer-effect logo-item" />
+            <img
+              src="../../public/images/js-logo.png"
+              alt=""
+              class="h-14 shimmer-effect logo-item"
+            />
             <p class="text-center my-2">JavaScript</p>
           </div>
           <div class="logo-item">
-            <img src="src\assets\java-logo.png" alt="" class="h-14 shimmer-effect logo-item" />
+            <img
+              src="../../public/images/java-logo.png"
+              alt=""
+              class="h-14 shimmer-effect logo-item"
+            />
             <p class="text-center my-2">Java</p>
           </div>
           <div class="logo-item">
-            <img src="src\assets\php-logo.png" alt="" class="h-14 shimmer-effect logo-item" />
+            <img
+              src="../../public/images/php-logo.png"
+              alt=""
+              class="h-14 shimmer-effect logo-item"
+            />
             <p class="text-center my-2">PHP</p>
           </div>
 
           <div class="logo-item">
-            <img src="src\assets\python-logo.png" alt="" class="h-14 shimmer-effect logo-item" />
+            <img
+              src="../../public/images/python-logo.png"
+              alt=""
+              class="h-14 shimmer-effect logo-item"
+            />
             <p class="text-center my-2">Python</p>
           </div>
           <div class="logo-item">
-            <img src="src\assets\ts-logo.png" alt="" class="h-14 shimmer-effect logo-item" />
+            <img
+              src="../../public/images/ts-logo.png"
+              alt=""
+              class="h-14 shimmer-effect logo-item"
+            />
             <p class="text-center my-2">TypeScript</p>
           </div>
 
           <div class="logo-item">
-            <img src="src\assets\angular-logo.png" alt="" class="h-14 shimmer-effect logo-item" />
+            <img
+              src="../../public/images/angular-logo.png"
+              alt=""
+              class="h-14 shimmer-effect logo-item"
+            />
             <p class="text-center my-2">Angular</p>
           </div>
         </div>
         <div class="flex justify-around m-7">
           <div class="logo-item">
-            <img src="src\assets\react-logo.png" alt="" class="h-14 shimmer-effect logo-item" />
+            <img
+              src="../../public/images/react-logo.png"
+              alt=""
+              class="h-14 shimmer-effect logo-item"
+            />
             <p class="text-center my-2">React</p>
           </div>
           <div class="logo-item">
-            <img src="src\assets\spring-logo.png" alt="" class="h-14 shimmer-effect logo-item" />
+            <img
+              src="../../public/images/spring-logo.png"
+              alt=""
+              class="h-14 shimmer-effect logo-item"
+            />
             <p class="text-center my-2">Spring</p>
           </div>
           <div class="logo-item">
             <img
-              src="src\assets\postgresql-logo.png"
+              src="../../public/images/postgresql-logo.png"
               alt=""
               class="h-14 shimmer-effect logo-item"
             />
             <p class="text-center my-2">PostgreSQL</p>
           </div>
           <div class="logo-item">
-            <img src="src\assets\mysql-logo.png" alt="" class="h-14 shimmer-effect logo-item" />
+            <img
+              src="../../public/images/mysql-logo.png"
+              alt=""
+              class="h-14 shimmer-effect logo-item"
+            />
             <p class="text-center my-2">MySQL</p>
           </div>
           <div class="logo-item">
-            <img src="src\assets\bootstrap-logo.png" alt="" class="h-14 shimmer-effect logo-item" />
+            <img
+              src="../../public/images/bootstrap-logo.png"
+              alt=""
+              class="h-14 shimmer-effect logo-item"
+            />
             <p class="text-center my-2">Bootstrap</p>
           </div>
           <div class="logo-item">
-            <img src="src\assets\tailwind-logo.png" alt="" class="h-14 shimmer-effect logo-item" />
+            <img
+              src="../../public/images/tailwind-logo.png"
+              alt=""
+              class="h-14 shimmer-effect logo-item"
+            />
             <p class="text-center my-2">Tailwind</p>
           </div>
         </div>
@@ -88,19 +140,27 @@
         <div class="flex justify-around m-7">
           <div class="logo-item flex-col justify-center">
             <div class="flex justify-center">
-              <img src="src\assets\ps-logo.png" alt="" class="h-14 shimmer-effect logo-item" />
+              <img
+                src="../../public/images/ps-logo.png"
+                alt=""
+                class="h-14 shimmer-effect logo-item"
+              />
             </div>
             <p class="text-center my-2">Adobe Photoshop</p>
           </div>
           <div class="logo-item">
-            <img src="src\assets\figma-logo.png" alt="" class="h-14 shimmer-effect logo-item" />
+            <img
+              src="../../public/images/figma-logo.png"
+              alt=""
+              class="h-14 shimmer-effect logo-item"
+            />
             <p class="text-center my-2">Figma</p>
           </div>
 
           <div class="logo-item flex-col justify-center">
             <div class="flex justify-center">
               <img
-                src="src\assets\adobe-animate-logo.png"
+                src="../../public/images/adobe-animate-logo.png"
                 alt=""
                 class="h-14 shimmer-effect logo-item"
               />
@@ -110,7 +170,11 @@
           <div class="logo-item">
             <div class="logo-item flex-col justify-center">
               <div class="flex justify-center">
-                <img src="src\assets\ai-logo.png" alt="" class="h-14 shimmer-effect logo-item" />
+                <img
+                  src="../../public/images/ai-logo.png"
+                  alt=""
+                  class="h-14 shimmer-effect logo-item"
+                />
               </div>
               <p class="text-center my-2">Adobe Illustrator</p>
             </div>

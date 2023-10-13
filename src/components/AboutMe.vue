@@ -44,7 +44,7 @@
         </p>
       </div>
       <div class="image-container">
-        <img src="../assets/3426525.png" alt="" />
+        <img src="../../public/images/3426525.png" alt="" />
       </div>
     </div>
   </div>
