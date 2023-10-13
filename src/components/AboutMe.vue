@@ -274,17 +274,3 @@ svg {
   }
 }
 </style>
-
-<script lang="ts">
-// export default {
-//   mounted() {
-//     const wrapper = document.querySelector('.wrapper')
-
-//     if (wrapper instanceof HTMLElement) {
-//       setTimeout(() => {
-//         wrapper.style.opacity = '0'
-//       }, 4000)
-//     }
-//   }
-// }
-</script>
